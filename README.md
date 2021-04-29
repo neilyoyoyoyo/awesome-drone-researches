@@ -1,9 +1,9 @@
-# Awesome Drone Papers
+# Awesome Drone Researches
 
 A curated list of related resources for drone-related researches. 
 
 ## Contents
- - [Important Papers](#important-papers)
+ - [Selected Papers](#selected-papers)
    - [Localization, Mapping and Replanning](#localization-mapping-replanning)
      - [State Estimation](#state-estimation)
      - [Dense Mapping](#dense-mapping)
@@ -26,7 +26,7 @@ A curated list of related resources for drone-related researches.
 
 \* indicates equal contribution
 
-## Important Papers
+## Selected Papers
 
 ### Localization Mapping and Replanning
 
